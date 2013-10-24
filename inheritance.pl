@@ -1,3 +1,6 @@
+
+# reference : http://www.perlmonks.org/?node_id=339131
+
 package dog; 
 
 sub new {
